@@ -1,3 +1,12 @@
 data/
 plan.txt
 submission.csv
+tmp/
+submission_final_fixed.csv
+submission_optimized.csv
+catboost_training.json
+learn_error.tsv
+test_error.tsv
+time_left.tsv
+catboost_info/learn/events.out.tfevents
+catboost_info/test/events.out.tfevents

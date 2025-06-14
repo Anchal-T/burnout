@@ -13,3 +13,5 @@ catboost_info/test/events.out.tfevents
 submission_ultra_ensemble.csv
 submission_ultra_ensemble_20250614_141442.csv
 best_model.h5
+solution.csv
+solution_1749896733.csv
